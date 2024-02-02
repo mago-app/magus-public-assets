@@ -1,0 +1,1 @@
+# magus-public-assets
